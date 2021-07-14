@@ -35,3 +35,10 @@ body {
 	padding:10px;
 	background-color: rgb(175, 175, 175);
 }
+
+.sidebar-item {
+    padding: 10px;
+    background: gainsboro;
+    border: 1px solid gray;
+    margin: 5px;
+}
